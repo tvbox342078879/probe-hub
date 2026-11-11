@@ -1,0 +1,632 @@
+[
+  {
+    "name": "斗鱼一起看",
+    "url": "http://150.158.52.248/tgyg/lib/douyuyqk.m3u",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "m3u8 HTTP 404"
+  },
+  {
+    "name": "Kimentanm",
+    "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "m3u8 HTTP 403"
+  },
+  {
+    "name": "综合直播",
+    "url": "http://193.123.86.190:14888/TV/iptv.php",
+    "kind": "m3u8",
+    "verdict": "通过",
+    "evidence": "分片 210B（http://173.208.212.130:8181/720p/cctv1.m3u8）"
+  },
+  {
+    "name": "夜空",
+    "url": "https://pan.szfx.top/down.php/4f5dad27633e1293d7ef2317ee9c801e.txt",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "非 m3u8（HTTP 200，正文开头 '夜空,#genre#\\n\\nCCTV1,http://119.91.7.169:20'）"
+  },
+  {
+    "name": "Guovin",
+    "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
+    "kind": "m3u8",
+    "verdict": "通过",
+    "evidence": "分片 202B（http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd）"
+  },
+  {
+    "name": "没4K",
+    "url": "https://mpimg.cn/text.php?hash=7265d70b6834cefbddb61bcc2d9c99db",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "非 m3u8（HTTP 200，正文开头 '世界杯没4K,#genre#\\r\\ncctv5,http://82.156.243.'）"
+  },
+  {
+    "name": "夜空1",
+    "url": "https://pan.29o.cn/down.php/aa846bceb7a1b4adb0385b1f61b192e8.txt",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "非 m3u8（HTTP 200，正文开头 '央视频道,#genre#\\nCCTV1-综合,http://139.227.221'）"
+  },
+  {
+    "name": "很少",
+    "url": "https://mpimg.cn/down.php/fa04b02ffac54ac877f5250d3d70e494.txt",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "非 m3u8（HTTP 200，正文开头 '🌟馬來頻道🌟,#genre#\\r\\n马来TVB星河,https://o11.1631'）"
+  },
+  {
+    "name": "划了",
+    "url": "https://pan.szfx.top/down.php/dcb0cc6a6935b5e62b2659eba6718471.txt",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "非 m3u8（HTTP 200，正文开头 '超清央卫,#genre#\\nCCTV1HD,http://38.75.136.13'）"
+  },
+  {
+    "name": "全球",
+    "url": "http://xingioe.top/down.php/82d0754d79de3be03e9b63e4d2d96818.jpg",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "m3u8 HTTP 404"
+  },
+  {
+    "name": "尘墨",
+    "url": "https://52xiaobai.cn/ceshi/zb.php",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "非 m3u8（HTTP 200，正文开头 '<!DOCTYPE html>\\n<html lang=\"zh-CN\">\\n<hea'）"
+  },
+  {
+    "name": "应该能看",
+    "url": "https://gh-proxy.org/raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "非 m3u8（HTTP 200，正文开头 '汕头频道,#genre#\\r\\n揭阳,http://120.196.235.42:9'）"
+  },
+  {
+    "name": "B站直播",
+    "url": "http://150.158.52.248/tgyg/lib/bililive.m3u",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "m3u8 HTTP 404"
+  },
+  {
+    "name": "Kimentanm1线",
+    "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "分片 HTTP 404（http://101.35.240.114:88/live.php?id=CCTV1）"
+  },
+  {
+    "name": "经典电视剧",
+    "url": "https://wp.kayyw.com/f/XOpgIZ/%E7%BB%8F%E5%85%B8%E7%94%B5%E8%A7%86%E5%89%A7.txt",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "非 m3u8（HTTP 200，正文开头 '香港奇案实录,#genre#\\n第01-04集,https://vip.ffzy-'）"
+  },
+  {
+    "name": "Yoursmile",
+    "url": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "非 m3u8（HTTP 200，正文开头 '央视,#genre#\\nCCTV1,http://120.76.248.139/l'）"
+  },
+  {
+    "name": "APTV",
+    "url": "https://wget.la/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "分片 HTTP 404（http://101.35.240.114:88/live.php?id=CCTV1）"
+  },
+  {
+    "name": "cluntoptest",
+    "url": "https://clun.top/lib/iptv_test.m3u",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "分片 HTTP 404（http://192.151.150.154/live/cctv8k.m3u8$LR•IPV4•4『线路1』）"
+  },
+  {
+    "name": "Kimentanm2线",
+    "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "分片 HTTP 404（http://101.35.240.114:88/live.php?id=CCTV1）"
+  },
+  {
+    "name": "cluntop",
+    "url": "https://clun.top/lib/iptv.m3u",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "分片 HTTP 404（http://bp-resource-dfl.bestv.cn/148/3/video.m3u8$LR•IPV4•2『线）"
+  },
+  {
+    "name": "范明明需开启V6网络",
+    "url": "https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u",
+    "kind": "m3u8",
+    "verdict": "无法判定",
+    "evidence": "分片拉取连接超时（http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8）·【timeout】连接超时（可能在墙/在挂，不一定是死）"
+  },
+  {
+    "name": "歌手直播",
+    "url": "https://mgtv.ottiptv.cc/mglist.m3u",
+    "kind": "m3u8",
+    "verdict": "通过",
+    "evidence": "分片 1387B（https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/sdr4kvid）"
+  },
+  {
+    "name": "YY轮播",
+    "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+    "kind": "m3u8",
+    "verdict": "无法判定",
+    "evidence": "分片 HTTP 301"
+  },
+  {
+    "name": "suxuang",
+    "url": "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "分片 HTTP 403（http://8.138.7.223/tv/btime.php?id=bjws4k）"
+  },
+  {
+    "name": "gambiarras",
+    "url": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+    "kind": "m3u8",
+    "verdict": "通过",
+    "evidence": "分片 437B（https://video01.brascast.com/grezzana1839/grezzana1839/playl）"
+  },
+  {
+    "name": "虎牙一起看",
+    "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+    "kind": "m3u8",
+    "verdict": "通过",
+    "evidence": "分片 145298B（https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/time/tim）"
+  },
+  {
+    "name": "live",
+    "url": "http://xhztv.top/xhz/live.txt",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "非 m3u8（HTTP 200，正文开头 '央视,#genre#\\nCCTV1,http://39.134.24.162/db'）"
+  },
+  {
+    "name": "咪咕",
+    "url": "https://develop202.github.io/migu_video/interface.txt",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "m3u8 无任何地址行（空清单）"
+  },
+  {
+    "name": "手动不知何时更新",
+    "url": "https://szyyds.cn/tv/live/x.txt",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "非 m3u8（HTTP 200，正文开头 '߇谟糯휧싧봦⭨ﴦ莬#genre#\\n公众号【小马网络科技园】,https://cl'）"
+  },
+  {
+    "name": "自动更新",
+    "url": "https://z.szyyds.cn/iptv",
+    "kind": "m3u8",
+    "verdict": "无法判定",
+    "evidence": "m3u8 拉取证书过期·【cert_expired】证书已过期（**续期即恢复，非站点失效**；建议跳过校验复验内容）"
+  },
+  {
+    "name": "mlzlzj",
+    "url": "https://raw.githubusercontent.com/mlzlzj/TV/main/output/result.m3u",
+    "kind": "m3u8",
+    "verdict": "无法判定",
+    "evidence": "分片拉取超时（http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33）·【other】"
+  },
+  {
+    "name": "移动",
+    "url": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/ext/移动",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "非 m3u8（HTTP 200，正文开头 '💓体育,#genre#\\r\\nCCTV5,http://ott.mobaibox.c'）"
+  },
+  {
+    "name": "联通",
+    "url": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/ext/联通",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "非 m3u8（HTTP 200，正文开头 '苏州频道,#genre#\\n苏州新闻综合,https://live-auth.51'）"
+  },
+  {
+    "name": "优选",
+    "url": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/ext/live.txt",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "非 m3u8（HTTP 200，正文开头 '央视频道,#genre#\\nCCTV1,http://ott.mobaibox.c'）"
+  },
+  {
+    "name": "Guovin1线",
+    "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+    "kind": "m3u8",
+    "verdict": "无法判定",
+    "evidence": "m3u8 拉取连接超时·【timeout】连接超时（可能在墙/在挂，不一定是死）"
+  },
+  {
+    "name": "线路",
+    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "m3u8 无任何地址行（空清单）"
+  },
+  {
+    "name": "BMCH",
+    "url": "https://play.iptv365.org/香雅情/lives/BMCH.txt",
+    "kind": "m3u8",
+    "verdict": "通过",
+    "evidence": "分片 412B（https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8）"
+  },
+  {
+    "name": "驸马影视电信专线",
+    "url": "http://fmys.top/lib/live.m3u",
+    "kind": "m3u8",
+    "verdict": "无法判定",
+    "evidence": "分片拉取连接超时（http://115.190.105.236:5566/live/cctv1?token=OK）·【timeout】连接超时（可能在墙/在挂，不一定是死）"
+  },
+  {
+    "name": "幸福年年zb",
+    "url": "http://150.158.52.248/tgyg/lib/ylzb.txt",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "m3u8 HTTP 404"
+  },
+  {
+    "name": "驸马影视移动专线",
+    "url": "http://fmys.top/lib/yidong.m3u",
+    "kind": "m3u8",
+    "verdict": "无法判定",
+    "evidence": "分片拉取连接超时（http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221）·【timeout】连接超时（可能在墙/在挂，不一定是死）"
+  },
+  {
+    "name": "轮播直播",
+    "url": "http://150.158.52.248/tgyg/lib/dsj.txt",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "m3u8 HTTP 404"
+  },
+  {
+    "name": "2500部恐怖片",
+    "url": "http://150.158.52.248/tgyg/lib/电影.txt",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "m3u8 HTTP 404"
+  },
+  {
+    "name": "短剧直播",
+    "url": "http://150.158.52.248/tgyg/lib/dj.txt",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "m3u8 HTTP 404"
+  },
+  {
+    "name": "天微",
+    "url": "http://150.158.52.248/tgyg/lib/kjtwzb.txt",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "m3u8 HTTP 404"
+  },
+  {
+    "name": "Tianmu",
+    "url": "https://play.iptv365.org/香雅情/lives/Tianmu.txt",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "非 m3u8（HTTP 200，正文开头 '# IPv4 Streams\\nAMC电影,http://61.221.215.2'）"
+  },
+  {
+    "name": "Kimentanm3线",
+    "url": "https://ghfast.top/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "分片 HTTP 404（http://101.35.240.114:88/live.php?id=CCTV1）"
+  },
+  {
+    "name": "有效期27年7月",
+    "url": "http://m.szyyds.cn/api.php?token=8664f352657e8b13585bcf0f84fc3512",
+    "kind": "m3u8",
+    "verdict": "无法判定",
+    "evidence": "分片拉取连接超时（http://139.227.21.22:9901/tsfile/live/0137_1.m3u8?key=txiptv）·【timeout】连接超时（可能在墙/在挂，不一定是死）"
+  },
+  {
+    "name": "综合直播1线",
+    "url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "m3u8 无任何地址行（空清单）"
+  },
+  {
+    "name": "综合直播2线",
+    "url": "https://ds65.tv1288.xyz",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "非 m3u8（HTTP 200，正文开头 '央卫频道,#genre#\\nCCTV1,http://45.192.97.170:'）"
+  },
+  {
+    "name": "电视直播",
+    "url": "http://gh-proxy.org/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
+    "kind": "m3u8",
+    "verdict": "无法判定",
+    "evidence": "m3u8 拉取超时/不可达·【other】"
+  },
+  {
+    "name": "develop202",
+    "url": "https://gh-proxy.org/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "m3u8 无任何地址行（空清单）"
+  },
+  {
+    "name": "音乐所",
+    "url": "https://szyyds.cn/tv/live/yy.txt",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "非 m3u8（HTTP 200，正文开头 '🇨🇳｜看直播说明,#genre#\\n小程序【小马网络】,https://15799'）"
+  },
+  {
+    "name": "YanG1线",
+    "url": "https://gh-proxy.org/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+    "kind": "m3u8",
+    "verdict": "通过",
+    "evidence": "分片 1099B（http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=Fifastb）"
+  },
+  {
+    "name": "EPG直播",
+    "url": "http://gh-proxy.org/https://raw.githubusercontent.com/Wirili/IPTV/main/live.txt",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "非 m3u8（HTTP 200，正文开头 '央视频道,#genre#\\nCCTV1综合,http://tvbox6.icu/t'）"
+  },
+  {
+    "name": "develop2022线",
+    "url": "https://ztha.top/TVBox/lib/interface.txt",
+    "kind": "m3u8",
+    "verdict": "无法判定",
+    "evidence": "分片 HTTP 605"
+  },
+  {
+    "name": "Kimentanm6线",
+    "url": "https://ztha.top/TVBox/lib/iptv.m3u",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "分片 HTTP 404（http://101.35.240.114:88/live.php?id=CCTV5）"
+  },
+  {
+    "name": "挺好直播",
+    "url": "https://ztha.top/TVBox/tv/thtv.txt",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "非 m3u8（HTTP 200，正文开头 '📛公众号：挺好仓库,#genre#\\n公众号：挺好仓库,https://raw.g'）"
+  },
+  {
+    "name": "MV",
+    "url": "https://ztha.top/TVBox/tv/MV.txt",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "非 m3u8（HTTP 200，正文开头 '美女赏析,#genre#\\r\\n十二大美女,http://jsmov2.a.yxim'）"
+  },
+  {
+    "name": "suxuang1线",
+    "url": "https://gh-proxy.org/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "分片 HTTP 403（http://8.138.7.223/tv/btime.php?id=bjws4k）"
+  },
+  {
+    "name": "世界杯",
+    "url": "https://ztha.top/TVBox/lib/fwc.m3u",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "分片 HTTP 403（https://cdn.jsdelivr.net/gh/iptvorganization/first/media.m3u）"
+  },
+  {
+    "name": "线路",
+    "url": "http://rihou.cc:567/gggg.nzk",
+    "kind": "m3u8",
+    "verdict": "无法判定",
+    "evidence": "m3u8 拉取连接超时·【timeout】连接超时（可能在墙/在挂，不一定是死）"
+  },
+  {
+    "name": "游魂",
+    "url": "https://www.iyouhun.com/tv/zb",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "非 m3u8（HTTP 200，正文开头 '更新时间,#genre#\\n20261026 09:47:53,https://g'）"
+  },
+  {
+    "name": "斗鱼一起看2线",
+    "url": "https://ztha.top/TVBox/lib/douyuyqk.m3u",
+    "kind": "m3u8",
+    "verdict": "通过",
+    "evidence": "分片 2032362B（https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/time/tim）"
+  },
+  {
+    "name": "YY轮播2线",
+    "url": "https://ztha.top/TVBox/lib/yylunbo.m3u",
+    "kind": "m3u8",
+    "verdict": "通过",
+    "evidence": "分片 2032362B（https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/time/tim）"
+  },
+  {
+    "name": "斗鱼一起看",
+    "url": "http://150.158.52.248/tgyg/lib/douyuyqk.m3u",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "m3u8 HTTP 404"
+  },
+  {
+    "name": "B站直播",
+    "url": "http://150.158.52.248/tgyg/lib/bililive.m3u",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "m3u8 HTTP 404"
+  },
+  {
+    "name": "B站直播1线",
+    "url": "https://ztha.top/TVBox/lib/bililive.m3u",
+    "kind": "m3u8",
+    "verdict": "通过",
+    "evidence": "分片 2032362B（https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/time/tim）"
+  },
+  {
+    "name": "虎牙一起看2线",
+    "url": "https://ztha.top/TVBox/lib/huyayqk.m3u",
+    "kind": "m3u8",
+    "verdict": "通过",
+    "evidence": "分片 2032362B（https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/time/tim）"
+  },
+  {
+    "name": "cluntoptest",
+    "url": "https://clun.top/lib/iptv_test.m3u",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "分片 HTTP 404（http://192.151.150.154/live/cctv8k.m3u8$LR•IPV4•4『线路1』）"
+  },
+  {
+    "name": "移动",
+    "url": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/ext/移动",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "非 m3u8（HTTP 200，正文开头 '💓体育,#genre#\\r\\nCCTV5,http://ott.mobaibox.c'）"
+  },
+  {
+    "name": "联通",
+    "url": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/ext/联通",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "非 m3u8（HTTP 200，正文开头 '苏州频道,#genre#\\n苏州新闻综合,https://live-auth.51'）"
+  },
+  {
+    "name": "日后",
+    "url": "http://rihou.cc:555/gggg.nzk",
+    "kind": "m3u8",
+    "verdict": "无法判定",
+    "evidence": "m3u8 拉取连接超时·【timeout】连接超时（可能在墙/在挂，不一定是死）"
+  },
+  {
+    "name": "优选",
+    "url": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/ext/live.txt",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "非 m3u8（HTTP 200，正文开头 '央视频道,#genre#\\nCCTV1,http://ott.mobaibox.c'）"
+  },
+  {
+    "name": "轮播直播",
+    "url": "http://150.158.52.248/tgyg/lib/dsj.txt",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "m3u8 HTTP 404"
+  },
+  {
+    "name": "2500部恐怖片",
+    "url": "http://150.158.52.248/tgyg/lib/电影.txt",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "m3u8 HTTP 404"
+  },
+  {
+    "name": "短剧直播",
+    "url": "http://150.158.52.248/tgyg/lib/dj.txt",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "m3u8 HTTP 404"
+  },
+  {
+    "name": "天微",
+    "url": "http://150.158.52.248/tgyg/lib/kjtwzb.txt",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "m3u8 HTTP 404"
+  },
+  {
+    "name": "线路",
+    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "m3u8 无任何地址行（空清单）"
+  },
+  {
+    "name": "Kimentanm5线",
+    "url": "https://ztha.top/TVBox/lib/iptv.m3u",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "分片 HTTP 404（http://101.35.240.114:88/live.php?id=CCTV5）"
+  },
+  {
+    "name": "yuan",
+    "url": "http://wangziduoqing.com/yuan/zb.txt",
+    "kind": "m3u8",
+    "verdict": "无法判定",
+    "evidence": "m3u8 拉取超时/不可达·【other】"
+  },
+  {
+    "name": "范明明需开启V6网络1线",
+    "url": "https://ztha.top/TVBox/lib/3d75a78a0fc7ede372c03598d6d10367.m3u",
+    "kind": "m3u8",
+    "verdict": "无法判定",
+    "evidence": "分片拉取连接超时（http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8）·【timeout】连接超时（可能在墙/在挂，不一定是死）"
+  },
+  {
+    "name": "斗鱼一起看1线",
+    "url": "https://ztha.top/TVBox/lib/douyuyqk.m3u",
+    "kind": "m3u8",
+    "verdict": "通过",
+    "evidence": "分片 2032362B（https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/time/tim）"
+  },
+  {
+    "name": "范明明需开启V6网络",
+    "url": "https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u",
+    "kind": "m3u8",
+    "verdict": "无法判定",
+    "evidence": "分片拉取连接超时（http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8）·【timeout】连接超时（可能在墙/在挂，不一定是死）"
+  },
+  {
+    "name": "驸马影视电信专线",
+    "url": "http://fmys.top/lib/live.m3u",
+    "kind": "m3u8",
+    "verdict": "无法判定",
+    "evidence": "分片拉取连接超时（http://115.190.105.236:5566/live/cctv1?token=OK）·【timeout】连接超时（可能在墙/在挂，不一定是死）"
+  },
+  {
+    "name": "王子多情",
+    "url": "http://wangziduoqing.cn/yuan/zb.txt",
+    "kind": "m3u8",
+    "verdict": "失败",
+    "evidence": "非 m3u8（HTTP 200，正文开头 '轮播频道,#genre#\\n鹿鼎记,http://222.186.39.21:35'）"
+  },
+  {
+    "name": "范明明需开启V6网络1线",
+    "url": "https://ztha.top/TVBox/lib/3d75a78a0fc7ede372c03598d6d10367.m3u",
+    "kind": "m3u8",
+    "verdict": "无法判定",
+    "evidence": "分片拉取连接超时（http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8）·【timeout】连接超时（可能在墙/在挂，不一定是死）"
+  },
+  {
+    "name": "虎牙一起看1线",
+    "url": "https://ztha.top/TVBox/lib/huyayqk.m3u",
+    "kind": "m3u8",
+    "verdict": "通过",
+    "evidence": "分片 440979B（https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/time/tim）"
+  },
+  {
+    "name": "YY轮播1线",
+    "url": "https://ztha.top/TVBox/lib/yylunbo.m3u",
+    "kind": "m3u8",
+    "verdict": "通过",
+    "evidence": "分片 157286B（https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/time/tim）"
+  },
+  {
+    "name": "范明明",
+    "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
+    "kind": "m3u8",
+    "verdict": "无法判定",
+    "evidence": "m3u8 拉取连接超时·【timeout】连接超时（可能在墙/在挂，不一定是死）"
+  },
+  {
+    "name": "驸马影视移动专线",
+    "url": "http://fmys.top/lib/yidong.m3u",
+    "kind": "m3u8",
+    "verdict": "无法判定",
+    "evidence": "分片拉取连接超时（http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221）·【timeout】连接超时（可能在墙/在挂，不一定是死）"
+  }
+]

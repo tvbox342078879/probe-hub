@@ -1,0 +1,798 @@
+{
+  "items": [
+    {
+      "name": "更新专用接口",
+      "urls": [
+        "https://0.12yue.de5.net/tvbox/更新专用接口.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "菠菜pro",
+      "urls": [
+        "https://0.12yue.de5.net/5/x4pro.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "菠菜园",
+      "urls": [
+        "https://0.12yue.de5.net/5/x4.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "幸福年年",
+      "urls": [
+        "http://150.158.52.248/tgyg/bbm.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "少儿频道",
+      "urls": [
+        "https://0.12yue.de5.net/5/tv少儿.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "饭太硬",
+      "urls": [
+        "http://www.饭太硬.net/tv",
+        "http://www.饭太硬.art/tv",
+        "http://fty.xxooo.cf/tv",
+        "http://fty.888484.xyz/tv",
+        "http://fty.333232.xyz/tv"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "饭太硬2线",
+      "urls": [
+        "http://www.饭太硬.cc/tv"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "饭太硬3线",
+      "urls": [
+        "http://www.饭太硬.art/tv"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "饭太硬4线",
+      "urls": [
+        "http://fty.xxooo.cf/tv"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "饭太硬5线",
+      "urls": [
+        "http://fty.888484.xyz/tv"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "饭太硬6线",
+      "urls": [
+        "http://fty.333232.xyz/tv"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "嗷呜",
+      "urls": [
+        "http://www.英格里希嗷呜.top/tv",
+        "https://9763.kstore.vip/aowu.json",
+        "http://itv666.cc/aowu/config.webp"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "嗷呜2线",
+      "urls": [
+        "https://9763.kstore.vip/aowu.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "嗷呜3线",
+      "urls": [
+        "http://itv666.cc/aowu/config.webp"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "肥猫",
+      "urls": [
+        "http://肥猫.net/tv",
+        "https://jk.catvod.site/"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "肥猫2线",
+      "urls": [
+        "https://jk.catvod.site/"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "王二小",
+      "urls": [
+        "https://9280.kstore.vip/aiwex.json",
+        "https://9280.kstore.space/aiwex.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "王二小2线",
+      "urls": [
+        "https://9280.kstore.space/aiwex.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "王二小3线",
+      "urls": [
+        "http://tvbox.王二小放牛娃.top"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "集多",
+      "urls": [
+        "http://rihou.cc:88/demo.php",
+        "http://jiduo.3116598.xyz/"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "集多2线",
+      "urls": [
+        "http://jiduo.3116598.xyz"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "集多3线",
+      "urls": [
+        "http://rihou.cc:88/demoabc.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "摸鱼",
+      "urls": [
+        "http://摸鱼儿.cc",
+        "http://我不是.摸鱼儿.top",
+        "https://6800.kstore.vip/fish.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "摸鱼2线",
+      "urls": [
+        "http://摸鱼儿.cc"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "摸鱼3线",
+      "urls": [
+        "http://我不是.摸鱼儿.top"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "摸鱼4线",
+      "urls": [
+        "http://www.小不点.com"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "南风",
+      "urls": [
+        "https://ghproxy.monkeyray.net/raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "南风2线",
+      "urls": [
+        "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "潇洒",
+      "urls": [
+        "https://9877.kstore.space/single.json",
+        "https://9877.kstore.space/AnotherD/api.json",
+        "https://9877.kstore.space/one.json",
+        "https://9877.kstore.space/ONE/one.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "潇洒5线",
+      "urls": [
+        "https://9877.kstore.space/one.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "潇洒3线",
+      "urls": [
+        "https://9877.kstore.space/ONE/one.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "嗨哥魔改",
+      "urls": [
+        "https://api.hgyx.vip/hgyx.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "讴歌",
+      "urls": [
+        "https://xn--biib-rp5imh.v.nxog.top/apitv.php"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "香雅情",
+      "urls": [
+        "https://play.iptv365.org/香雅情/api.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "老张",
+      "urls": [
+        "https://zhangqun1818.serv00.net/zq/api.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "挺好",
+      "urls": [
+        "https://ztha.top/TVBox/thdjk.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "小马",
+      "urls": [
+        "https://szyyds.cn/tv/x.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "驸马",
+      "urls": [
+        "http://fmys.top/fmys.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "周J",
+      "urls": [
+        "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/box"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "小米",
+      "urls": [
+        "https://gh-proxy.org/raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "菜妮丝",
+      "urls": [
+        "https://tv.xn--yhqu5zs87a.top"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "心魔",
+      "urls": [
+        "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "分享者",
+      "urls": [
+        "http://hucongrong.web3v.work/风水/fxz/fxz.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "传说",
+      "urls": [
+        "http://tjf1100.serv00.net"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "俊宇",
+      "urls": [
+        "http://home.jundie.top:81/top98.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "clun",
+      "urls": [
+        "https://clun.top/box.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "夏夏影视",
+      "urls": [
+        "https://11405.kstore.space/xiaye/qk4k.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "小凯",
+      "urls": [
+        "https://jihulab.com/jyqhkd/kd/-/raw/main/kai.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "时光",
+      "urls": [
+        "https://jiekou.netlify.app/svip.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "东篱",
+      "urls": [
+        "https://chigua.eu.org"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "聚玩",
+      "urls": [
+        "http://xhztv.top/xhz"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "道长",
+      "urls": [
+        "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "小苹果",
+      "urls": [
+        "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "哈吉米",
+      "urls": [
+        "https://17264.kstore.space/哈基米.png"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "真六",
+      "urls": [
+        "https://cccimg.com/down.php/7d1f30263b3f2bf3deda2d7faeef4844.zhen6"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "动漫",
+      "urls": [
+        "https://www.yingm.cc/dm/dm.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "短剧",
+      "urls": [
+        "https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "小虎斑",
+      "urls": [
+        "http://hb.小虎斑.site:25252/仅供测试"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "天神",
+      "urls": [
+        "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/天神IY.png"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    },
+    {
+      "name": "星微Vip",
+      "urls": [
+        "https://7337.kstore.vip/xw/测试勿传"
+      ],
+      "kind": "tvbox-iface",
+      "seed_baseline": true,
+      "source_file": "tvboxapilinks.txt",
+      "extracted_sha12": "894460c7ded1",
+      "extracted_at": "2026-10-26T11:29:34Z",
+      "在线状态": "离线种子（待启用）",
+      "cadence": "每周"
+    }
+  ]
+}
